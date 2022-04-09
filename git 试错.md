@@ -74,6 +74,7 @@ clone
 ### 9. 上传到云端
 
 - git push ssh
+- 建立远程链接后 git push origin 分支名
 
 
 
