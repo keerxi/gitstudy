@@ -62,3 +62,9 @@ clone
 ### 7. 查看提交日志
 
 - git log
+
+
+
+### 8. 回滚提交
+
+- git reset --hard id
