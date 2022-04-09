@@ -93,3 +93,9 @@ clone
 ### 12. 分支合并
 
 - git merge 分支名
+
+
+
+### 13. 分支删除
+
+- git branch -D 分支名
