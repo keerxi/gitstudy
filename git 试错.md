@@ -86,3 +86,4 @@ clone
 ### 11. 创建并切换分支
 
 - git checkout -b new-branch
+- git checkout 分支名
