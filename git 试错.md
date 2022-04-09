@@ -99,3 +99,15 @@ clone
 ### 13. 分支删除
 
 - git branch -D 分支名
+
+
+
+### 14. 删除远程分支
+
+- git push origin --delete develop
+
+
+
+### 15. 和远程仓库建立连接
+
+- git remote add origin url/ ssh
