@@ -71,4 +71,18 @@ clone
 
 
 
-### 9. git push ssh / url
+### 9. 上传到云端
+
+- git push ssh
+
+
+
+### 10. 查看分支
+
+- git branch
+
+
+
+### 11. 创建并切换分支
+
+- git checkout -b new-branch
