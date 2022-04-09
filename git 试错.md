@@ -68,3 +68,7 @@ clone
 ### 8. 回滚提交
 
 - git reset --hard id
+
+
+
+### 9. git push ssh / url
