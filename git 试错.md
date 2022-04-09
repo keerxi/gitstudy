@@ -112,7 +112,3 @@ clone
 ### 15. 和远程仓库建立连接
 
 - git remote add origin url/ ssh
-
-
-
-16. master. 
