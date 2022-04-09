@@ -87,3 +87,9 @@ clone
 
 - git checkout -b new-branch
 - git checkout 分支名
+
+
+
+### 12. 分支合并
+
+- git merge 分支名
